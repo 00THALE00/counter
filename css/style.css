@@ -1,0 +1,77 @@
+ * {
+    padding: 0;
+    margin: 0;
+}
+
+
+/*c'est le code pour le compteur */
+/* html {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  
+  #timer {
+    font-weight: bold;
+    font-size: 4em;
+  } */
+  
+
+
+
+
+
+
+
+
+
+
+h1 {
+    color: red;
+}
+
+div {
+    background-color: blue;
+    border: 5px solid blue;
+    margin: 50px;
+    padding: auto;
+    width: 200px;
+    height: 200px;
+}
+
+div2 {
+    background-color: green;
+    border: 5px solid green;
+    margin: 150px;
+    padding: auto;
+    width: 200px;
+    height: 200px;
+    
+}
+
+div3 {
+    background-color: yellow;
+    border: 5px solid yellow
+    margin: 250px;
+    padding: auto;
+    width: 200px;
+    height: 200px;
+}
+
+div4 {
+    background-color: red;
+    border: 5px solid red;
+    margin: 350px;
+    padding: auto;
+    width: 200px;
+    height: 200px;
+} 
+ 
+
+
+ 
+
+
+
